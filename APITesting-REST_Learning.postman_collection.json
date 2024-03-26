@@ -1,0 +1,30 @@
+{
+	"info": {
+		"_postman_id": "f71477c2-0286-49ca-af04-2d9b5b3b7524",
+		"name": "APITesting-REST_Learning",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "33026756"
+	},
+	"item": [
+		{
+			"name": "Lab001",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://www.youtube.com/",
+					"protocol": "https",
+					"host": [
+						"www",
+						"youtube",
+						"com"
+					],
+					"path": [
+						""
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

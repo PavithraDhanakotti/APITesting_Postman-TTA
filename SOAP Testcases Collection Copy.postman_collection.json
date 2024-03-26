@@ -19,7 +19,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "<?xml version=\"1.0\" encoding=\"utf-8\"?>\n<soap:Envelope xmlns:soap=\"http://schemas.xmlsoap.org/soap/envelope/\">\n  <soap:Body>\n    <NumberToWords xmlns=\"http://www.dataaccess.com/webservicesserver/\">\n      <ubiNum>500</ubiNum>\n    </NumberToWords>\n  </soap:Body>\n</soap:Envelope>"
+					"raw": "<?xml version=\"1.0\" encoding=\"utf-8\"?>\n<soap:Envelope xmlns:soap=\"http://schemas.xmlsoap.org/soap/envelope/\">\n  <soap:Body>\n    <NumberToWords xmlns=\"http://www.dataaccess.com/webservicesserver/\">\n      <ubiNum>2002</ubiNum>\n    </NumberToWords>\n  </soap:Body>\n</soap:Envelope>"
 				},
 				"url": {
 					"raw": "https://www.dataaccess.com/webservicesserver/NumberConversion.wso",
@@ -81,7 +81,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "<?xml version=\"1.0\" encoding=\"utf-8\"?>\n<soap:Envelope xmlns:soap=\"http://schemas.xmlsoap.org/soap/envelope/\">\n  <soap:Body>\n    <NumberToWords xmlns=\"http://www.dataaccess.com/webservicesserver/\">\n      <ubiNum>500</ubiNum>\n    </NumberToWords>\n  </soap:Body>\n</soap:Envelope>"
+					"raw": "<?xml version=\"1.0\" encoding=\"utf-8\"?>\n<soap:Envelope xmlns:soap=\"http://schemas.xmlsoap.org/soap/envelope/\">\n  <soap:Body>\n    <NumberToWords xmlns=\"http://www.dataaccess.com/webservicesserver/\">\n      <ubiNum></ubiNum>\n    </NumberToWords>\n  </soap:Body>\n</soap:Envelope>"
 				},
 				"url": {
 					"raw": "https://www.dataaccess.com/webservicesserver/NumberConversion.wso",
@@ -112,7 +112,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "<?xml version=\"1.0\" encoding=\"utf-8\"?>\n<soap:Envelope xmlns:soap=\"http://schemas.xmlsoap.org/soap/envelope/\">\n  <soap:Body>\n    <NumberToWords xmlns=\"http://www.dataaccess.com/webservicesserver/\">\n      <ubiNum>500</ubiNum>\n    </NumberToWords>\n  </soap:Body>\n</soap:Envelope>"
+					"raw": "<?xml version=\"1.0\" encoding=\"utf-8\"?>\n<soap:Envelope xmlns:soap=\"http://schemas.xmlsoap.org/soap/envelope/\">\n  <soap:Body>\n    <NumberToWords xmlns=\"http://www.dataaccess.com/webservicesserver/\">\n      <ubiNum>-9</ubiNum>\n    </NumberToWords>\n  </soap:Body>\n</soap:Envelope>"
 				},
 				"url": {
 					"raw": "https://www.dataaccess.com/webservicesserver/NumberConversion.wso",
